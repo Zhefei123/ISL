@@ -3,10 +3,10 @@ An Introduction to Statistical Learning is a textbook by Gareth James, Daniela W
 
 This repository contains my solutions to the exercises as Jupyter Notebooks written in Python using:
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Patsy
-StatsModels
-Sklearn
+*Numpy
+*Pandas
+*Matplotlib
+*Seaborn
+*Patsy
+*StatsModels
+*Sklearn
